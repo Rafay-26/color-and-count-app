@@ -1,0 +1,32 @@
+#plus {
+    border: none;
+    font-size: 50px;
+    width: 70px;
+}
+
+#minus {
+    border: none;
+    font-size: 50px;
+    width: 70px;
+}
+
+#count {
+    font-size: 70px;
+
+}
+
+#ooo {
+    margin-top: 100px;
+    background: linear-gradient(blue, red, green);
+    width: 500px;
+    height: 300px;
+}
+
+body {
+    background-repeat: no-repeat;
+    background: linear-gradient(to right, rgb(51, 34, 111), rgb(10, 144, 10), rgb(138, 26, 26));
+}
+
+h1 {
+    font-size: 50px;
+}
